@@ -1,7 +1,22 @@
 # ==============================================================================
-# 01_IMD_trend_analysis.R
-# Purpose: Observational trend analysis for daily rainfall data (1901-2025).
-# Computes ETCCDI indices, trends, change points, and non-stationary GEV.
+############################################################
+# Script: 01_IMD_trend_analysis.R
+#
+# Study:
+# Dynamic Dominance of Extreme Monsoon Rainfall
+# Intensification at the Eastern Himalayan Margin
+#
+# Purpose:
+# Computes ETCCDI indices, Mann–Kendall trend tests,
+# Pettitt change-point detection, Sen's slope,
+# SPI, and Hurst exponent.
+#
+# Author:
+# Laldinchhuaha Khiangte
+#
+# Date:01-06-2026
+# 2026
+############################################################
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
