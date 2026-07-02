@@ -1,24 +1,23 @@
 # ==============================================================================
-############################################################
 # Script: 01_IMD_trend_analysis.R
 #
-# Study:
-# Dynamic Dominance of Extreme Monsoon Rainfall
-# Intensification at the Eastern Himalayan Margin
+# Project:
+# Dynamic Dominance of Extreme Monsoon Rainfall Intensification
+# at the Eastern Himalayan Margin
 #
-# Purpose:
-# Computes ETCCDI indices, Mann–Kendall trend tests,
-# Pettitt change-point detection, Sen's slope,
-# SPI, and Hurst exponent.
+# Description:
+# Performs trend analyses of daily precipitation, including ETCCDI climate
+# extreme indices, Mann–Kendall trend tests, Pettitt change-point detection,
+# Sen's slope estimation, Standardized Precipitation Index (SPI), and
+# Hurst exponent analysis.
 #
 # Author:
-# Laldinchhuaha Khiangte
+# DinosKuri Laldinchhuaha Khiangte
 #
-# Date:01-06-2026
-# 2026
-############################################################
+# Repository:
+# https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
+#
 # ==============================================================================
-
 # ------------------------------------------------------------------------------
 # 0. INITIALIZATION & DIRECTORY SETUP
 # ------------------------------------------------------------------------------
