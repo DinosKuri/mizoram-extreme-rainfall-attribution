@@ -11,7 +11,7 @@
 # intensification using attribution diagnostics.
 #
 # Author:
-# DinosKuri Laldinchhuaha Khiangte
+# Laldinchhuaha Khiangte
 #
 # Repository:
 # https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
