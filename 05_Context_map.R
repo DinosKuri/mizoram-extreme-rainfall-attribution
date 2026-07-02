@@ -1,12 +1,21 @@
 # ==============================================================================
-# 05_Context_map.R
-# Purpose: Regional Context Map generation (Figure 2c).
-# Maps elevation profiles and boundary contours for context.
-# Author:
-# Laldinchhuaha Khiangte
+# Script: 05_Context_map.R
 #
-# Date:01-06-2026
-# 2026
+# Project:
+# Dynamic Dominance of Extreme Monsoon Rainfall Intensification
+# at the Eastern Himalayan Margin
+#
+# Description:
+# Generates publication-quality maps of the study region, including
+# topography, administrative boundaries, and contextual geographic
+# information used throughout the manuscript.
+#
+# Author:
+# DinosKuri Laldinchhuaha Khiangte
+#
+# Repository:
+# https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
+#
 # ==============================================================================
 
 library(here)
