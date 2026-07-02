@@ -1,12 +1,21 @@
 # ==============================================================================
-# 04_Attribution_analysis.R
-# Purpose: Thermodynamic scaling and dynamic attribution analysis.
-# Generates dual-component decompositions and trends correlation mappings.
-# Author:
-# Laldinchhuaha Khiangte
+# Script: 04_Attribution_analysis.R
 #
-# Date:01-06-2026
-# 2026
+# Project:
+# Dynamic Dominance of Extreme Monsoon Rainfall Intensification
+# at the Eastern Himalayan Margin
+#
+# Description:
+# Quantifies the relative contributions of dynamic atmospheric circulation
+# changes and thermodynamic moisture increases to observed extreme rainfall
+# intensification using attribution diagnostics.
+#
+# Author:
+# DinosKuri Laldinchhuaha Khiangte
+#
+# Repository:
+# https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
+#
 # ==============================================================================
 
 library(here)
