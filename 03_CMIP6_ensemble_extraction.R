@@ -2,6 +2,11 @@
 # 03_CMIP6_ensemble_extraction.R
 # Purpose: Extracts CMIP6 Rx1day data and generates detection distributions.
 # Assumes CMIP6 NetCDF files exist in the data/CMIP6 directory.
+# Author:
+# Laldinchhuaha Khiangte
+#
+# Date:01-06-2026
+# 2026
 # ==============================================================================
 
 library(here)
