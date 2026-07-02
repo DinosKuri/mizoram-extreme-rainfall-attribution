@@ -2,6 +2,11 @@
 # 02_ERA5_circulation.R
 # Purpose: Downloads ERA5 monthly means, computes 850 hPa moisture flux,
 # performs Pettitt test, and creates composite map.
+# Author:
+# Laldinchhuaha Khiangte
+#
+# Date:01-06-2026
+# 2026
 # ==============================================================================
 
 library(here)
