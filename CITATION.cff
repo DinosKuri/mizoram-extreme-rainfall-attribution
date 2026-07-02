@@ -1,8 +1,24 @@
 cff-version: 1.2.0
-title: Mizoram Extreme Rainfall Attribution Scripts
-message: "If you use this repository, please cite it."
+
+title: "Mizoram Extreme Rainfall Attribution Scripts"
+
+message: >
+  If you use this software, please cite both this repository and the
+  associated journal publication.
+
+type: software
+
 authors:
   - family-names: Khiangte
     given-names: Laldinchhuaha
-version: 1.0.0
+    orcid: "https://orcid.org/0009-0003-3258-7299"
+
+version: "1.0.0"
+
+doi: 10.5281/zenodo.21132748
+
+date-released: 2026-07-02
+
+repository-code: "https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution"
+
 license: MIT
