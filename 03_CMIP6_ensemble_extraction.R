@@ -11,7 +11,7 @@
 # for attribution and future analyses.
 #
 # Author:
-# DinosKuri Laldinchhuaha Khiangte
+# Laldinchhuaha Khiangte
 #
 # Repository:
 # https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
