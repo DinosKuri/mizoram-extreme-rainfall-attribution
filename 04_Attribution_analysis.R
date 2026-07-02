@@ -2,6 +2,11 @@
 # 04_Attribution_analysis.R
 # Purpose: Thermodynamic scaling and dynamic attribution analysis.
 # Generates dual-component decompositions and trends correlation mappings.
+# Author:
+# Laldinchhuaha Khiangte
+#
+# Date:01-06-2026
+# 2026
 # ==============================================================================
 
 library(here)
