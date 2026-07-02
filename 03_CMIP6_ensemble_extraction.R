@@ -1,12 +1,21 @@
 # ==============================================================================
-# 03_CMIP6_ensemble_extraction.R
-# Purpose: Extracts CMIP6 Rx1day data and generates detection distributions.
-# Assumes CMIP6 NetCDF files exist in the data/CMIP6 directory.
-# Author:
-# Laldinchhuaha Khiangte
+# Script: 03_CMIP6_ensemble_extraction.R
 #
-# Date:01-06-2026
-# 2026
+# Project:
+# Dynamic Dominance of Extreme Monsoon Rainfall Intensification
+# at the Eastern Himalayan Margin
+#
+# Description:
+# Processes CMIP6 historical climate simulations, extracts precipitation
+# variables, computes multi-model ensemble statistics, and prepares data
+# for attribution and future analyses.
+#
+# Author:
+# DinosKuri Laldinchhuaha Khiangte
+#
+# Repository:
+# https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
+#
 # ==============================================================================
 
 library(here)
