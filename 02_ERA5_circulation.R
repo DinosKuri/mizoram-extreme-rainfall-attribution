@@ -11,7 +11,7 @@
 # geopotential height, wind fields, and associated circulation anomalies.
 #
 # Author:
-# DinosKuri Laldinchhuaha Khiangte
+# Laldinchhuaha Khiangte
 #
 # Repository:
 # https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
