@@ -1,12 +1,21 @@
 # ==============================================================================
-# 02_ERA5_circulation.R
-# Purpose: Downloads ERA5 monthly means, computes 850 hPa moisture flux,
-# performs Pettitt test, and creates composite map.
-# Author:
-# Laldinchhuaha Khiangte
+# Script: 02_ERA5_circulation.R
 #
-# Date:01-06-2026
-# 2026
+# Project:
+# Dynamic Dominance of Extreme Monsoon Rainfall Intensification
+# at the Eastern Himalayan Margin
+#
+# Description:
+# Processes ERA5 reanalysis data to investigate atmospheric circulation,
+# vertically integrated moisture transport, moisture-flux convergence,
+# geopotential height, wind fields, and associated circulation anomalies.
+#
+# Author:
+# DinosKuri Laldinchhuaha Khiangte
+#
+# Repository:
+# https://github.com/DinosKuri/mizoram-extreme-rainfall-attribution
+#
 # ==============================================================================
 
 library(here)
