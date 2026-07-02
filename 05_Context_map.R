@@ -2,6 +2,11 @@
 # 05_Context_map.R
 # Purpose: Regional Context Map generation (Figure 2c).
 # Maps elevation profiles and boundary contours for context.
+# Author:
+# Laldinchhuaha Khiangte
+#
+# Date:01-06-2026
+# 2026
 # ==============================================================================
 
 library(here)
